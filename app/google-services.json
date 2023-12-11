@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050308767636",
+    "project_id": "spot-on-9ba05",
+    "storage_bucket": "spot-on-9ba05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050308767636:android:3766f0842b513f18b32981",
+        "android_client_info": {
+          "package_name": "com.rajkumar.spoton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLvREKscuUxaOcAbd_yA6uOlbMpGs7EOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
