@@ -1,0 +1,26 @@
+# My spot-on  Project
+
+Welcome to my spot-on project! Explore the exciting features and get started contributing.
+
+## GitHub Repository
+
+Find the source code and contribute on [GitHub](https://github.com/raj508506/SpotOn).
+
+## Installation
+
+Follow these steps to install the project...
+
+Overview:
+SpotOn caters to every passion – be it fashion, tech, or home decor. We've curated a diverse array of products to meet your every need, creating a one-stop destination for all things fabulous.
+
+Installation:
+
+Getting Started
+---------------
+1. Install Android Studio, if you don't already have it.
+2. Download the sample.
+3. Import the sample into Android Studio.
+4. Build and run the sample.
+
+Usage:
+Explore, click, shop – it's that simple! Follow the prompts, add to your Wishlist, and let SpotOn elevate your retail therapy.
